@@ -9,7 +9,7 @@
 <span>Date Arrival: </span><input type="date" style="width:265px; height:30px;" name="date_arrival" /><br>
 <span>Expiry Date : </span><input type="date" value="<?php echo date ('M-d-Y'); ?>" style="width:265px; height:30px;" name="exdate" /><br>
 <span>Selling Price : </span><input type="text" id="txt1" style="width:265px; height:30px;" name="price" onkeyup="sum();" Required><br>
-<span>Original Price : </span><input type="text" id="txt2" style="width:265px; height:30px;" name="o_price" onkeyup="sum();" Required><br>
+<span>Buying Price : </span><input type="text" id="txt2" style="width:265px; height:30px;" name="o_price" onkeyup="sum();" Required><br>
 <span>Profit : </span><input type="text" id="txt3" style="width:265px; height:30px;" name="profit" readonly><br>
 <span>Supplier : </span>
 <select name="supplier"  style="width:265px; height:30px; margin-left:-5px;" >
