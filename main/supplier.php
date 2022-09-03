@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>
-POS
+Ayoola Drinks Store
 </title>
 <?php
 	require_once('auth.php');
