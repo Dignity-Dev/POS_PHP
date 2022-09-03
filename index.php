@@ -10,7 +10,7 @@
 <html>
 <head>
 <title>
-POS
+Ayoola Drinks Store
 </title>
     <link rel="shortcut icon" href="main/images/pos.jpg">
 

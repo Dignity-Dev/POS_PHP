@@ -4,7 +4,7 @@ include('../connect.php');
 $a = $_POST['name'];
 $b = $_POST['address'];
 $c = $_POST['contact'];
-$d = $_POST['cperson'];
+$d = $_Along New Oyo-Ogbomosho Express way<br>Betterlife Area, Saabo, Oyo.T['cperson'];
 $e = $_POST['note'];
 // query
 $sql = "INSERT INTO supliers (suplier_name,suplier_address,suplier_contact,contact_person,note) VALUES (:a,:b,:c,:d,:e)";

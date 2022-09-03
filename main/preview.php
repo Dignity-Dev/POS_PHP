@@ -3,7 +3,7 @@
 <head>
 <?php require_once ('auth.php');?>
 <title>
-POS
+Ayoola Drinks Store
 </title>
  <link href="css/bootstrap.css" rel="stylesheet">
 
