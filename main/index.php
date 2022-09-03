@@ -199,7 +199,7 @@ and get more free JavaScript, CSS and DHTML scripts! */
 						<li class="active">Dashboard</li>
 					</ul>
 					<font style=" font:bold 44px 'Aleo'; text-shadow:1px 1px 25px #000; color:#fff;">
-						<center>Ayooluwa Drinks Store</center>
+						<center>Ayooluwa Drinks Stores</center>
 					</font>
 					<div id="mainmain">
 
