@@ -210,6 +210,7 @@ and get more free JavaScript, CSS and DHTML scripts! */
 						<a href="customer.php"><i class="icon-group icon-2x"></i><br> Customers</a>
 						<a href="supplier.php"><i class="icon-group icon-2x"></i><br> Suppliers</a>
 						<a href="salesreport.php?d1=0&d2=0"><i class="icon-bar-chart icon-2x"></i><br> Sales Report</a>
+						<a href="user.php"><i class="icon-bar-chart icon-2x"></i><br> All Users</a>
 						<a href="../index.php">
 							<font color="red"><i class="icon-off icon-2x"></i></font><br> Logout
 						</a>
