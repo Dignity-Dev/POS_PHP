@@ -3,7 +3,7 @@
 
 <head>
 	<title>
-		POS
+		Ayooluwa Drinks store
 	</title>
 	<link href="css/bootstrap.css" rel="stylesheet">
 
