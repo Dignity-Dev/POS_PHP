@@ -7,7 +7,7 @@
 <span>Username : </span><input type="text" style="width:265px; height:30px;" name="username" placeholder="Address"/><br>
 <span>Password : </span><input type="text" style="width:265px; height:30px;" name="password" placeholder="Contact"/><br>
 <span>User Type/position: </span><select name="type">
-    <option value="cahier">Cashier</option>
+    <option value="cashier">Cashier</option>
     <option value="admin">Administration</option>
 </select><br>
 
