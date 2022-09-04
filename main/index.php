@@ -94,7 +94,7 @@ and get more free JavaScript, CSS and DHTML scripts! */
 	<?php include('navfixed.php'); ?>
 	<?php
 	$position = $_SESSION['SESS_LAST_NAME'];
-	if ($position == 'Cashier') {
+	if ($position == 'cashier') {
 	?>
 
 		<a href="../index.php">Logout</a>
